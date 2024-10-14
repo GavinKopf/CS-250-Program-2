@@ -1,3 +1,9 @@
+/*
+    This program organizes data from athletes from different sports
+    into different classes 
+    Author: Gavin Kopf
+    Date: 10/14/24
+*/
 #include <iostream>
 #include "Athlete.h"
 #include "VolleyBall.h"
